@@ -25,4 +25,12 @@ To run this game, you need:
    git clone https://github.com/rashedulhridoy/fps-game.git
    cd fps-game
     ```
+2. Start The Game on Windows
+   ```bash
+   python game.py
+   ```
+3. Now Start The Game on Linux
+   ```bash
+   python3 game.py
+   ```
    
