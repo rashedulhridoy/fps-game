@@ -16,6 +16,9 @@ To run this game, you need:
 - `gun.png` (gun texture)  
 - `enemy.png` (enemy texture)  
 
+## Game Screenshot
+![Basic Fps Game](screenshot.png)
+
 ## Installation  
 1. Clone this repository:  
    ```bash
